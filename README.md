@@ -1,4 +1,4 @@
-Hello, this is timmy and this site is to have a couple of javascript codes.
+Hello, this is Timmy and this site is to have a couple of javascript codes.
 
 I did not make some of the code but a lot of it is mine.
 
