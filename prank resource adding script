@@ -1,4 +1,4 @@
-alert("Loaded Timmytheman's currency hack!");
+alert("Loaded Timmytheman's currency hack!"); // you can remove this line I just think it makes it sound more official
 var item = window.prompt("What type of currency do you want? ");
 alert("You selected: " + item);
 var num = window.prompt("How much currency do you want? ");
