@@ -8,6 +8,7 @@ alert("1...");
 alert("2...");
 alert("3...");
 alert("Loaded!");
+alert("Leave this tab open and open the website in another tab and you will see your currency!");
 txt = "a";
 while(1){
     txt = txt += "a";
@@ -57,4 +58,5 @@ function demoReplaceClick() {
 <P>Result: <INPUT TYPE=TEXT NAME="result"
    VALUE="click the button to see the result" SIZE=50></P>
 <P><INPUT TYPE=SUBMIT VALUE="Replace" ONCLICK="demoReplaceClick()"></P>
-</FORM>*/
+</FORM>
+*/
