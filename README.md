@@ -8,5 +8,3 @@ All of these codes work in the inspect element feature thing.
 
 If you do not know how to get to inspect element open this link
 https://zapier.com/blog/inspect-element-tutorial/
-
-Make sure you use them in bookmarks bar
