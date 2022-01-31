@@ -1,3 +1,5 @@
 // i really like blooket, but i like haxing it more, i made this poopoo script to make it easier.  it will just put a thing in the corner of the screen.
-javascript:var frame = document.createElement('iframe'); frame.src="https://schoolcheats.net/blooket/"; frame.style.position="fixed"; frame.style.top="5%"; frame.style.right="0%";frame.style.height="300px";frame.style.width="315px"; frame.style.zIndex="100000"; document.body.appendChild(frame);(function()%7B(function() %7Bvar x %3D document.createElement("script")%3Bx.src %3D "https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSnowLord7%2Fdevconsole%40master%2Fmain.js"%3Bx.onload %3D alert("Instructions: go to console and paste the code then hit enter")%3Bdocument.head.appendChild(x)%3B%7D)()%7D)()
-// this script only works if you stick it in you bookmark bar
+javascript:var frame = document.createElement('iframe'); frame.src="https://webcamtoy.com/"; frame.style.position="fixed"; frame.style.top="5%"; frame.style.right="0%";frame.style.height="300px";frame.style.width="315px"; frame.style.zIndex="100000"; document.body.appendChild(frame);
+// this script does not show up on search history so nobody will know you are hacking so its better then just going to the website
+
+// i found a problem    you have to open it in a different tab because  "blooket blocked it"  :(
