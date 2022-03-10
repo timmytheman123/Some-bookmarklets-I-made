@@ -1,0 +1,1 @@
+javascript:var item = window.prompt("1st number: "); var item2 = window.prompt("2nd number: "); var answer = (item / item2); alert("Answer is " + answer);
