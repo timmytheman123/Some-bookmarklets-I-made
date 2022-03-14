@@ -1,0 +1,2 @@
+//use this on a website besides blooket
+javascript:var frame = document.createElement('iframe'); frame.src="https://i.ibb.co/fDMrWd5/Dead-1518x853.png"; frame.style.position="fixed"; frame.style.top="0%"; frame.style.right="0%";frame.style.height="853px";frame.style.width="1518px"; frame.style.zIndex="100000"; document.body.appendChild(frame);
