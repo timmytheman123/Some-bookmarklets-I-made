@@ -1,0 +1,2 @@
+javascript:(function(){Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){el.src = 'https://i.ibb.co/Rp8jzxP/Funky-Frelps.gif';});}())
+//it is justin bieber hack but it has my science teacher instead of justin bieber
