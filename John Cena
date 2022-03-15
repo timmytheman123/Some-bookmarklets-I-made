@@ -1,0 +1,2 @@
+javascript:var frame = document.createElement('iframe'); frame.src="https://www.vhv.rs/dpng/d/517-5173847_picture-wwe-png-john-cena-transparent-png.png"; frame.style.position="fixed"; frame.style.top="5%"; frame.style.right="0%";frame.style.height="900px";frame.style.width="900px"; frame.style.zIndex="100000"; document.body.appendChild(frame);
+//spawn john cena on your page.
